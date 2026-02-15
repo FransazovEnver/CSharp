@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="01.NumbersFromNTo1/01.NumbersFromNTo1.csproj" />
+  <Project Path="02.EvenPowersOf2/02.EvenPowersOf2.csproj" />
+  <Project Path="03.TriangleOfStars/03.TriangleOfStars.csproj" />
+  <Project Path="04.Building/04.Building.csproj" />
+  <Project Path="05.NumberPyramid/05.NumberPyramid.csproj" />
+  <Project Path="06.TravelSavings/06.TravelSavings.csproj" />
+  <Project Path="07.SumOfDigitsCalculator/07.SumOfDigitsCalculator.csproj" />
+  <Project Path="08.PrimeNumbers/08.PrimeNumbers.csproj" />
+</Solution>
