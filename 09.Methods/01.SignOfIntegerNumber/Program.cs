@@ -17,5 +17,5 @@ static int PrintSign(int number)
         Console.WriteLine($"The number {number} is zero.");
     }
 
-    return number
+    return number;
 }
