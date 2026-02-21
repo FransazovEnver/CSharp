@@ -6,5 +6,4 @@
   <Project Path="05.NumberPyramid/05.NumberPyramid.csproj" />
   <Project Path="06.TravelSavings/06.TravelSavings.csproj" />
   <Project Path="07.SumOfDigitsCalculator/07.SumOfDigitsCalculator.csproj" />
-  <Project Path="08.PrimeNumbers/08.PrimeNumbers.csproj" />
 </Solution>

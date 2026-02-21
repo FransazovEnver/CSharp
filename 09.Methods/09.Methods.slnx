@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="01.SignOfIntegerNumber/01.SignOfIntegerNumber.csproj" />
+  <Project Path="02.Grades/02.Grades.csproj" />
+  <Project Path="03.PrintingTriangle/03.PrintingTriangle.csproj" Id="591da138-ec61-4ee2-bac2-fd32fa6017a7" />
+</Solution>
