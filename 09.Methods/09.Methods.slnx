@@ -5,4 +5,5 @@
   <Project Path="04.CalculateRectangleArea/04.CalculateRectangleArea.csproj" Id="c01e786d-d68a-4fff-b809-e1fed753c891" />
   <Project Path="05.RepeatString/05.RepeatString.csproj" Id="0cbaf409-ff5f-47bc-87ba-807677ce583f" />
   <Project Path="06.MathPower/06.MathPower.csproj" Id="dc4bcfe7-840b-43b5-b790-add35ace4d09" />
+  <Project Path="07.GreaterOfTwoValues/07.GreaterOfTwoValues.csproj" Id="1e6309e5-f891-4fae-b59a-55c9dec89820" />
 </Solution>
