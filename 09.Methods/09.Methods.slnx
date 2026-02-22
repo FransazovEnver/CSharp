@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="01.SignOfIntegerNumber/01.SignOfIntegerNumber.csproj" />
+  <Project Path="01.VowelsCount/08.VowelsCount.csproj" Id="c5c88030-0068-4669-ac1b-e66b46701a4a" />
   <Project Path="02.Grades/02.Grades.csproj" />
   <Project Path="03.PrintingTriangle/03.PrintingTriangle.csproj" Id="591da138-ec61-4ee2-bac2-fd32fa6017a7" />
   <Project Path="04.CalculateRectangleArea/04.CalculateRectangleArea.csproj" Id="c01e786d-d68a-4fff-b809-e1fed753c891" />
