@@ -8,4 +8,5 @@
   <Project Path="07.GreaterOfTwoValues/07.GreaterOfTwoValues.csproj" Id="1e6309e5-f891-4fae-b59a-55c9dec89820" />
   <Project Path="08.VowelsCount/08.VowelsCount.csproj" Id="f55f45ce-1897-4103-acd2-e2b97c8f2f4e" />
   <Project Path="09.FactorialDivision/09.FactorialDivision.csproj" Id="86582404-0aec-4e62-a143-1c44906506f1" />
+  <Project Path="10.FactorialDivision/10.FactorialDivision.csproj" Id="cb900e40-6e87-41ae-aee0-76b36df3e6c6" />
 </Solution>
