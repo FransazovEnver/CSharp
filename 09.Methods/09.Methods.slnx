@@ -5,11 +5,11 @@
   <Project Path="../../../../../../Desktop/Csharp/CSharp/09.Methods/04.CalculateRectangleArea/04.CalculateRectangleArea.csproj" Id="c01e786d-d68a-4fff-b809-e1fed753c891" />
   <Project Path="../../../../../../Desktop/Csharp/CSharp/09.Methods/05.RepeatString/05.RepeatString.csproj" Id="0cbaf409-ff5f-47bc-87ba-807677ce583f" />
   <Project Path="../../../../../../Desktop/Csharp/CSharp/09.Methods/06.MathPower/06.MathPower.csproj" Id="dc4bcfe7-840b-43b5-b790-add35ace4d09" />
-  <Project Path="../../../../../../Desktop/Csharp/CSharp/09.Methods/06.Orders/06.Orders.csproj" Id="315fa6a4-a138-4599-a22f-01f4f1dfa297" />
   <Project Path="../../../../../../Desktop/Csharp/CSharp/09.Methods/07.GreaterOfTwoValues/07.GreaterOfTwoValues.csproj" Id="1e6309e5-f891-4fae-b59a-55c9dec89820" />
   <Project Path="../../../../../../Desktop/Csharp/CSharp/09.Methods/08.VowelsCount/08.VowelsCount.csproj" Id="f55f45ce-1897-4103-acd2-e2b97c8f2f4e" />
   <Project Path="../../../../../../Desktop/Csharp/CSharp/09.Methods/09.FactorialDivision/09.FactorialDivision.csproj" Id="86582404-0aec-4e62-a143-1c44906506f1" />
   <Project Path="../../../../../../Desktop/Csharp/CSharp/09.Methods/10.MultiplicationSign/10.MultiplicationSign.csproj" Id="38e18eb6-c5e9-49d4-a265-167731491fe3" />
   <Project Path="../../../../../../Desktop/Csharp/CSharp/09.Methods/11.PasswordValidator/11.PasswordValidator.csproj" Id="25009e72-3bf1-4374-9845-7615db27d1ab" />
   <Project Path="../../../../../../Desktop/Csharp/CSharp/09.Methods/12.MultiplyEvensByOdds/12.MultiplyEvensByOdds.csproj" Id="571f0c0a-d37b-452b-936e-d5049f060c48" />
+  <Project Path="06.Orders/06.Orders.csproj" Id="e34b6304-8540-4ade-b778-2c36b7fbee86" />
 </Solution>

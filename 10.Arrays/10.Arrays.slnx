@@ -1,3 +1,13 @@
 <Solution>
   <Project Path="01.DayOfWeek/01.DayOfWeek.csproj" />
+  <Project Path="02.SumAnArray/02.SumAnArray.csproj" />
+  <Project Path="03.ReverseAnArray/03.ReverseAnArray.csproj" />
+  <Project Path="04.EvenAndOddSubtraction/04.EvenAndOddSubtraction.csproj" />
+  <Project Path="05.EqualArrays/05.EqualArrays.csproj" />
+  <Project Path="06.CommonElements/06.CommonElements.csproj" />
+  <Project Path="07.CondenseArrayToNumber/07.CondenseArrayToNumber.csproj" />
+  <Project Path="08.MagicSum/08.MagicSum.csproj" />
+  <Project Path="09.ZigZagArrays/09.ZigZagArrays.csproj" />
+  <Project Path="10.ArrayRotation/10.ArrayRotation.csproj" />
+  <Project Path="11.TopIntegers/11.TopIntegers.csproj" />
 </Solution>
