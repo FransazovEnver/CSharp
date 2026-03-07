@@ -12,6 +12,7 @@ int[] secondArr = Console.ReadLine()
 bool areEqual = true;
 if (firstArr.Length == secondArr.Length)
 {
+
     for (int i = 0; i < firstArr.Length; i++)
     {
         if (firstArr[i] != secondArr[i])
@@ -20,12 +21,13 @@ if (firstArr.Length == secondArr.Length)
             break;
         }
     }
-
 }
 else
 {
     areEqual = false;
-    Console.WriteLine("Arrays are not identical.");
 }
-
+if (areEqual)
+    Console.WriteLine("Arrays are identical.");
+else
+    Console.WriteLine("Arrays are not identical.");
 
